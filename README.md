@@ -124,14 +124,13 @@ IoT-Weather-Monitoring-Station/
 │   └── libraries.txt
 │
 ├── screenshots/
-│   ├── wokwi-circuit.png
-│   ├── serial-monitor.png
-│   ├── thingspeak-dashboard.png
-│   └── sensor-controls.png
-│
+│   ├── circuit.png
+│   ├── sensory_readings.png
+│   ├── cloud_dashboard.png
+│   
 └── docs/
     ├── project-report.pdf
-    └── system-architecture.png
+    └── system_architecture.png
 ```
 
 ## How to Run the Project
